@@ -1,11 +1,5 @@
-h1 {
-	font-family: cursive;
-	color: darkblue;
-}
-
 .stdshroom {
-	margin: 0 150px;
-	
+	margin: 0 150px;	
 } 
 
 #headings {
@@ -15,13 +9,42 @@ h1 {
 #jfooter {
 	text-align: center;
 }
-#mariopic{
+
+#mariopic {
 	padding: 10px 10px 10px 10px;
 	border-style: outset;
 	border-color: pink;
 	margin: 15px 0;
 	background-color: black;
 }
+
+h1 {
+	font-family: cursive;
+	color: darkblue;
+}
+
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdINcKyvXgXnFCf_qlCfaAZw9FCiDFfRnnhLRbyCeElHxSNEmn);
+	background-size: cover;
+	
+}
+
+table {
+	background-color: white;
+}
+
+a:visited {
+	color: #00ff99;
+
+}
+a:active {
+	background-color: yellow;
+}
+
+a:hover {
+	color: hotpink;
+}
+
 @media (max-width: 700px) {
 	h1 {
 		color: gold;		
@@ -35,22 +58,3 @@ h1 {
 	}
 }
 
-body{
-	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdINcKyvXgXnFCf_qlCfaAZw9FCiDFfRnnhLRbyCeElHxSNEmn);
-	background-size: cover;
-	
-}
-table {
-	background-color: white;
-}
-
-a:visited {
-	color: #00ff99;
-}
-a:active{
-	background-color: yellow;
-}
-
-a:hover{
-	color: hotpink;
-}

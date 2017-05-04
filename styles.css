@@ -1,1 +1,30 @@
-body {background:blue} 
+
+
+.stdshroom {
+	margin: 0 150px;
+	
+} 
+
+#headings {
+	background-color: lightgreen;
+}
+
+#jfooter {
+	text-align: center;
+}
+#mariopic{
+	padding: 10px 10px 10px 10px;
+	border-style: outset;
+	border-color: pink;
+	margin: 15px 0;
+	background-color: black;
+}
+
+body{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdINcKyvXgXnFCf_qlCfaAZw9FCiDFfRnnhLRbyCeElHxSNEmn);
+	background-size: cover;
+	
+}
+table {
+	background-color: white;
+}

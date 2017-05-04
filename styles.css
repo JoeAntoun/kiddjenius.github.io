@@ -31,3 +31,13 @@ body{
 table {
 	background-color: white;
 }
+
+a:visited {
+	color: #00ff99;
+}
+a:active{
+	background-color: yellow;
+}
+a:hover{
+	color: hotpink;
+}

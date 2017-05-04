@@ -1,0 +1,61 @@
+.stdshroom {
+	margin: 0 150px;
+	border-style: dashed;	
+} 
+
+#headings {
+	background-color: lightgreen;
+}
+
+#jfooter {
+	text-align: center;
+}
+
+#mariopic {
+	padding: 10px 10px 10px 10px;
+	border-style: outset;
+	border-color: pink;
+	margin: 15px 0;
+	background-color: black;
+}
+
+h1 {
+	font-family: cursive;
+	color: darkblue;
+}
+
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdINcKyvXgXnFCf_qlCfaAZw9FCiDFfRnnhLRbyCeElHxSNEmn);
+	background-size: cover;
+	
+}
+
+table {
+	background-color: white;
+}
+
+a:visited {
+	color: #00ff99;
+
+}
+a:active {
+	background-color: yellow;
+}
+
+a:hover {
+	color: hotpink;
+}
+
+@media (max-width: 700px) {
+	h1 {
+		color: gold;		
+		text-align: center;
+		-webkit-text-stroke: .3px black;
+	}
+	p {
+		color: darkorange;
+		-webkit-text-stroke: .9px black;
+		font-weight: lighter;
+	}
+}
+

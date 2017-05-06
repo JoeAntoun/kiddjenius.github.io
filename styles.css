@@ -24,7 +24,7 @@ h1 {
 	color: darkblue;
 }
 
-body {
+html {
 	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdINcKyvXgXnFCf_qlCfaAZw9FCiDFfRnnhLRbyCeElHxSNEmn);
 	background-size: cover;
 	
@@ -34,10 +34,6 @@ table {
 	background-color: white;
 }
 
-a:visited {
-	color: #00ff99;
-
-}
 a:active {
 	background-color: yellow;
 }

@@ -1,6 +1,7 @@
 .stdshroom {
 	background-color: red;
 	border-style: dashed;
+	display: inline-block;
 } 
 
 #headings {
@@ -29,7 +30,7 @@ h1 {
 html {
 	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdINcKyvXgXnFCf_qlCfaAZw9FCiDFfRnnhLRbyCeElHxSNEmn);
 	background-size: cover;
-	
+	max-width: 780px;
 }
 
 table {

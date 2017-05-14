@@ -1,5 +1,5 @@
 /** {
-  outline: 1px dashed grey;
+  outline: 1px dashed yellow;
 }*/
 
 .stdshroom {
@@ -8,11 +8,7 @@
 	text-align: center;	
 	} 
 
-#headings {
-	background-color: lightgreen;
-}
-
-#jfooter {
+.jfooter {
 	text-align: center;
 	color: white;
 	opacity: .8;
@@ -21,14 +17,6 @@
 	font-family: helvetica;
 	font-size: 18px;
 	
-}
-
-#mariopic {
-	padding: 10px 10px 10px 10px;
-	border-style: outset;
-	border-color: pink;
-	margin: 15px 0;
-	background-color: black;
 }
 
 .nextpage {
@@ -81,7 +69,6 @@ h1 {
 	display: block;
 	text-align: center;
 	
-
 }
 
 html {
@@ -91,17 +78,14 @@ html {
 
 	}
 
-table {
-	background-color: white;
-}
-
-a:active {
+a:visited {
 	background-color: yellow;
 }
 
 a:hover {
 	color: hotpink;
 }
+
 
 @media (max-width: 800px) {
 	h1 {
@@ -127,4 +111,11 @@ a:hover {
   text-align: center;
 
 }
+
+
+
+
+
+
+
 

@@ -1,0 +1,57 @@
+/*
+* {
+  outline: 1px dashed yellow;
+}*/
+
+html {
+	background-image: url(http://cdn.wallpapersafari.com/47/5/ACQuqN.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+h2 {
+	font-family: comic sans ms, cursive, sans-serif;
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.16, #f2f), color-stop(0.3, #22f), color-stop(0.4, #2ff), color-stop(0.5, #2f2),color-stop(0.6, #2f2), color-stop(0.7, #ff2), color-stop(.8, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.16, #f2f), color-stop(0.3, #22f), color-stop(0.4, #2ff), color-stop(0.5, #2f2),color-stop(0.6, #2f2), color-stop(0.7, #ff2), color-stop(.8, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-size: 30px;
+  -webkit-text-stroke: .4px black;
+  text-align: center;
+}
+
+ul {
+	color: white;
+	font-family: helvetica;
+	text-align: left;
+	margin: 0 auto;
+	width: 200px;
+	padding: 2px;
+
+}
+
+#mariopic {
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	text-align: center;	
+	width: 100%;
+	margin-left: 15px;
+
+}
+
+.table {
+	
+	text-align: center;
+	background-color: white;
+	margin: 0 auto;
+
+}
+
+#headtop {
+	background-color: #33ff33;
+	color: #ff4da6;
+}
+
+
